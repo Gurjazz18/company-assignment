@@ -109,7 +109,7 @@ mongoDbUrl              // your mongoDB URI to connect to the mongoDB atlas
 **Start**
 
 ```bash
-$ cd backend            // go to server folder
+$ cd backend            // go to Backend folder
 $ npm i                 // npm install packages
 $ npm run server        // run it locally
 ```
