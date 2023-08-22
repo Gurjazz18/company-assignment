@@ -30,21 +30,20 @@ Technologies used in the project:
 ## 💻 Screenshots
 
 **Home Page:**
-![Home Page]((https://user-images.githubusercontent.com/49484642/214049412-b62130c6-f19b-449f-9b22-43a99cf41774.png))
+![Home Page](https://github.com/Gurjazz18/company-assignment/assets/96822665/5a7b3a17-d3ca-4011-bdaf-94096919eee6)
+
 
 **Login Page:**
-![Login Page]((https://github.com/Gurjazz18/company-assignment/assets/96822665/bc7cefa9-845b-4683-ab88-9372a9e55132)
-)
+![Login Page](https://github.com/Gurjazz18/company-assignment/assets/96822665/bc7cefa9-845b-4683-ab88-9372a9e55132)
 
 
 
 **SignUp Page:**
-![Single Product Page]((https://github.com/Gurjazz18/company-assignment/assets/96822665/5408e38c-f3eb-436e-8318-f00e511610a4)
-)
+![SignUp](https://github.com/Gurjazz18/company-assignment/assets/96822665/5408e38c-f3eb-436e-8318-f00e511610a4)
 
 **Task Form:**
-![Cart Page]((https://github.com/Gurjazz18/company-assignment/assets/96822665/4f703e5e-e788-47cd-958e-24a8fcc563e4)
-)
+![Task Page](https://github.com/Gurjazz18/company-assignment/assets/96822665/4f703e5e-e788-47cd-958e-24a8fcc563e4)
+
 
 
 
