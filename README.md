@@ -15,7 +15,7 @@ Technologies used in the project:
 
 ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white)
 
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white)
+
 
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&amp;logo=chakra-ui&amp;logoColor=white)
 
@@ -66,16 +66,16 @@ https://newtask-v32e.onrender.com
     -
     - #### `components` - This folder holds all of the different components that will make up our pages
     - #### `pages` - These represent a unique page on the website i.e. Home or About. 
-    - #### `redux` - It consists of store, reducer, action and actiontypes and is responsible for global state management of our app.
+  
     - #### `App.js` - This is what renders all of our browser routes and different pages
     - #### `index.js` - This is what renders the react app by rendering App.js.
 - #### `package.json` - Defines npm behaviors and packages for the client
 #### `Backend` - Holds the server application
 - #### `config` - This holds our configuration files, like mongoDB uri
-- #### `middlewares` - This holds all our middlewares used in our application
-- #### `models` - This holds all of our data models or business logic
+- #### `middlewares` - This holds our middlewares used in our application
+- #### `models` - This holds all of our data models 
 - #### `routes/controllers` - This holds all of our HTTP to URL path associations for each unique url
-- #### `index.js` - An entry file for our Node JS application
+- #### `server.js` - An entry file for our Node JS application
 #### `package.json` - Defines npm behaviors like the scripts defined in the next section of the README
 #### `.gitignore` - Tells git which files to ignore
 #### `README` - This file!
