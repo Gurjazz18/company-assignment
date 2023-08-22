@@ -38,7 +38,7 @@ UserRouter.post('/register', async(req, res) => {
               status:false
          });
 
-         console.log(error)
+         
     }
   });
 
