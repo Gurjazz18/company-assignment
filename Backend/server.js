@@ -8,6 +8,8 @@ const { taskRuter } = require("./controller/taskController.js")
 const { authentication } = require("./Middleware/authMiddleware.js")
 require('dotenv').config()
 
+const path=require('path')
+
 //Midddle ware
 app.use(express())
 app.use(cors())
@@ -24,7 +26,6 @@ app.use(express.json())
   app.use("/task",taskRuter)
   
   
-
 
 //.............. server.............................
 
